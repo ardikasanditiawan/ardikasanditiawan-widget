@@ -1,6 +1,6 @@
 # UAS LAB PBK
-NAMA : Ardika Sandi Tiawan
-NPM : 213510320
+# NAMA : Ardika Sandi Tiawan
+# NPM : 213510320
 
 
 # ardikasanditiawan
