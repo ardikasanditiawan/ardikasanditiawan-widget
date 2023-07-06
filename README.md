@@ -3,8 +3,6 @@
 # NPM : 213510320
 
 
-# ardikasanditiawan
-
 ## Project setup
 ```
 npm install
